@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ValidatedDialog</class>
+ <widget class="QDialog" name="ValidatedDialog">
+  <layout class="QFormLayout" name="formLayout">
+   <item row="0" column="0"><widget class="QLabel" name="label1"><property name="text"><string>Field 1</string></property></widget></item>
+   <item row="0" column="1"><widget class="QLineEdit" name="lineEdit1"/></item>
+   <item row="1" column="0"><widget class="QLabel" name="label2"><property name="text"><string>Field 2</string></property></widget></item>
+   <item row="1" column="1"><widget class="QLineEdit" name="lineEdit2"/></item>
+   <item row="2" column="0"><widget class="QLabel" name="label3"><property name="text"><string>Field 3</string></property></widget></item>
+   <item row="2" column="1"><widget class="QLineEdit" name="lineEdit3"/></item>
+   <item row="3" column="0" colspan="2"><widget class="QDialogButtonBox" name="buttonBox">
+     <property name="standardButtons"><set>QDialogButtonBox::Ok|QDialogButtonBox::Cancel</set></property>
+   </widget></item>
+  </layout>
+ </widget>
+</ui>
+

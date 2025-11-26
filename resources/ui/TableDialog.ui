@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TableDialog</class>
+ <widget class="QDialog" name="TableDialog">
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item><widget class="QTableWidget" name="tableWidget"/></item>
+   <item><widget class="QDialogButtonBox" name="buttonBox">
+     <property name="standardButtons"><set>QDialogButtonBox::Ok|QDialogButtonBox::Cancel</set></property>
+   </widget></item>
+  </layout>
+ </widget>
+</ui>
