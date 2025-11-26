@@ -1,0 +1,54 @@
+Folder PATH listing for volume OS
+Volume serial number is 2E40-4C81
+C:.
+¦   dialogs_registry.py
+¦   dialog_factory.py
+¦   license.dat
+¦   license_manager.py
+¦   main.py
+¦   main.spec
+¦   MASTER_KEY_GENERATOR.py
+¦   README.md
+¦   reset_license.py
+¦   resource_loader.py
+¦   stdout_console.py
+¦   structure.txt
+¦   userkey.txt
+¦   
++---resources
+    +---images
+    ¦       AriesCI_Logo_JARG.ico
+    ¦       ATOL.lnk
+    ¦       download.png
+    ¦       Dual Ring100px.gif
+    ¦       flight_sim.jpg
+    ¦       icons8-cancel-100.png
+    ¦       icons8-check-48.png
+    ¦       icons8-check-mark-50.png
+    ¦       icons8-checkmark-48.png
+    ¦       icons8-database-50.png
+    ¦       icons8-down-arrow-50.png
+    ¦       JTRED_LOGO.png
+    ¦       logo.png
+    ¦       Picture1.png
+    ¦       Picture2.png
+    ¦       Screenshot 2025-11-04 190751.png
+    ¦       Screenshot 2025-11-04 195303.png
+    ¦       spinner.gif
+    ¦       world.png
+    ¦       world3.png
+    ¦       world4.png
+    ¦       
+    +---sounds
+    +---styles
+    ¦       style_dark.qss
+    ¦       
+    +---ui
+            ComboDialog.ui
+            license.lock
+            main_window.ui
+            NameDialog.ui
+            SettingsDialog.ui
+            TableDialog.ui
+            ValidatedDialog.ui
+            
